@@ -1,2 +1,2 @@
-# netflix-close-teste
+# netflix-clone-teste
 Páginal inicial netflix
